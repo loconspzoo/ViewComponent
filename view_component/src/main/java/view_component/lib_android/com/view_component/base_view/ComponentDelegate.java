@@ -1,7 +1,8 @@
 package view_component.lib_android.com.view_component.base_view;
 
-import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
+
+import androidx.annotation.NonNull;
 
 /**
  * This interface is representation of component view pattern

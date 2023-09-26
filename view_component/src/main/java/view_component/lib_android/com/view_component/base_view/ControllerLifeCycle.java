@@ -1,7 +1,6 @@
 package view_component.lib_android.com.view_component.base_view;
 
-import android.support.annotation.NonNull;
-import android.view.View;
+import androidx.annotation.NonNull;
 
 /**
  * This interface is used in order to bind ControllerComponent in to Custom View's lifecycle

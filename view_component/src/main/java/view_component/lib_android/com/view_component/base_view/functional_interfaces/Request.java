@@ -1,7 +1,6 @@
 package view_component.lib_android.com.view_component.base_view.functional_interfaces;
 
-import android.support.annotation.NonNull;
-
+import androidx.annotation.NonNull;
 import view_component.lib_android.com.view_component.base_view.ViewComponent;
 
 /**

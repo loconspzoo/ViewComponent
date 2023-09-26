@@ -1,10 +1,9 @@
 package view_component.lib_android.com.view_component.base_view;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.view.View;
 
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import view_component.lib_android.com.view_component.base_view.functional_interfaces.Request;
 
 /**

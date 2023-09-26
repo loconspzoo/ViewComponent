@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ViewComponent.iml" filepath="$PROJECT_DIR$/ViewComponent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/view_component/view_component.iml" filepath="$PROJECT_DIR$/view_component/view_component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViewComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/ViewComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.iml" filepath="$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.main.iml" filepath="$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/view_component/ViewComponent.view_component.unitTest.iml" />
     </modules>
   </component>
 </project>

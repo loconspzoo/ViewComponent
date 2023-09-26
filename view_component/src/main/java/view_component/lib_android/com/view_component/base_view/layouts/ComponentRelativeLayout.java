@@ -1,13 +1,12 @@
 package view_component.lib_android.com.view_component.base_view.layouts;
 
 import android.content.Context;
-import android.support.annotation.AttrRes;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
 import android.util.AttributeSet;
-import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 
+import androidx.annotation.AttrRes;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import view_component.lib_android.com.view_component.base_view.ComponentDelegate;
 import view_component.lib_android.com.view_component.base_view.ComponentDelegateImpl;
 import view_component.lib_android.com.view_component.base_view.ControllerComponent;

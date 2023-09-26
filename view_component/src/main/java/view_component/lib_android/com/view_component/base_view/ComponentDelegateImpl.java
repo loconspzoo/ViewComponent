@@ -1,8 +1,9 @@
 package view_component.lib_android.com.view_component.base_view;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
 import android.view.LayoutInflater;
+
+import androidx.annotation.NonNull;
 
 /**
  * Inside your custom view create this class instance (with {@link ComponentDelegateImpl#create(ComponentDelegate, Context)} method), and implement {@link ComponentDelegate} interface
