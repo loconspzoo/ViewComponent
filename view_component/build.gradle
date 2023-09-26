@@ -15,8 +15,8 @@ android {
     defaultConfig {
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode 100
-        versionName "1.0.0"
+        versionCode 110
+        versionName "1.1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
@@ -55,7 +55,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.loconspzoo.ViewComponent'
                 artifactId = 'android-view_component'
-                version = '1.0'
+                version = '1.1'
             }
         }
     }
